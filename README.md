@@ -8,7 +8,7 @@
 ##
 
 <div>
-  <a href="https://github.com/DevPedroDias">
+  <a href="https://github.com/DevPedroDias" style="display: inline_block">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevPedroDias&count_private=true&show_icons=true&theme=dracula" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevPedroDias&theme=dracula&layout=compact" />
   </a> 
